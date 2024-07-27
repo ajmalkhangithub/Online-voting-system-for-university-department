@@ -8,7 +8,7 @@ class UniversityVotingSystem:
         self.db = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="ajmalkhan@123",
+            password="ajmalkh",
             database="quad"
         )
         self.root = tk.Tk()
